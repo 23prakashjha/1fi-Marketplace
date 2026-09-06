@@ -4,13 +4,13 @@ A responsive 1Fi Marketplace experience for browsing products and selecting mutu
 
 ## Screenshots
 
-<div align="center">
-  <img src="screenshots/marketplace-home.png" alt="1Fi Marketplace home section" width="900" />
-</div>
+<p align="center">
+  <img src="screenshots/images.png" alt="1Fi Marketplace home section" width="900" />
+</p>
 
-<div align="center">
+<p align="center">
   <img src="screenshots/marketplace-products.png" alt="1Fi Marketplace products section" width="900" />
-</div>
+</p>
 
 ## Features
 
