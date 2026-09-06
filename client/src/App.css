@@ -437,7 +437,7 @@
 .marketplace-intro {
   margin: -4px 0 2px;
   color: #81788c;
-  font-size: 13px;
+  font-size: 16px;
   line-height: 1.45;
 }
 
@@ -650,14 +650,14 @@
 
 .section-heading h2 {
   margin: 2px 0 0;
-  font: 800 22px 'Manrope', sans-serif;
+  font: 800 27px 'Manrope', sans-serif;
   letter-spacing: -.04em;
 }
 
 .section-kicker {
   margin: 0;
   color: #9a91a8;
-  font-size: 9px;
+  font-size: 11px;
   font-weight: 800;
   letter-spacing: .16em;
 }

@@ -2,6 +2,16 @@
 
 A responsive 1Fi Marketplace experience for browsing products and selecting mutual-fund-backed EMI plans.
 
+## Screenshots
+
+<div align="center">
+  <img src="screenshots/marketplace-home.png" alt="1Fi Marketplace home section" width="900" />
+</div>
+
+<div align="center">
+  <img src="screenshots/marketplace-products.png" alt="1Fi Marketplace products section" width="900" />
+</div>
+
 ## Features
 
 - Full-width responsive Shop experience for desktop and mobile.
